@@ -49,6 +49,15 @@ The model was initially trained with the MobileNetV2 base layers frozen, followe
 The model achieved approximately **98.8% validation accuracy** during training.
 
 > This project is an educational AI prototype and is not intended to provide medical diagnosis.
+> ## Training Results
+
+### Accuracy and Loss
+
+![Training Results](training-results.png)
+
+### Confusion Matrix
+
+![Confusion Matrix](confusion-matrix.png)
 
 ## Demo
 
